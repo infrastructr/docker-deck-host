@@ -1,6 +1,6 @@
 version: '2.3'
 services:
-  ipsec:
+  deck-host:
     build:
       context: .
     image: infrastructr/deck-host:dev
