@@ -1,0 +1,7 @@
+*.log
+*.retry
+/.project
+/.idea
+/.vscode
+/venv
+.env
